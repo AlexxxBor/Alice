@@ -1,0 +1,8 @@
+2023-03-13 17:31:59,155 ERROR root Error
+2023-03-13 17:31:59,155 CRITICAL root Critical or Fatal
+ERROR:root:Error
+CRITICAL:root:Critical or Fatal
+2023-03-13 17:33:51,244 INFO root Info
+2023-03-13 17:33:51,245 WARNING root Warning
+2023-03-13 17:33:51,245 ERROR root Error
+2023-03-13 17:33:51,245 CRITICAL root Critical or Fatal
